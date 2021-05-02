@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20👋,%20I'm%20Sodi&fontSize=70)
 
 ### 💬 About me
 - 🎓I am a Computer Science and Mathematics graduated
